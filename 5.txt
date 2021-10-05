@@ -1,0 +1,17 @@
+1. M0 <- b0
+2. M1 <- b1
+3. M2 <- b2
+4. M3 <- b3
+5. M4 <- b4
+6. M6 <- 5
+7. Accu <- M0
+8. temp <- M1
+9. Accu <- Acuu + temp
+10. tmp <- M2
+11. Accu <- Acuu + temp
+12. tmp <- M3
+13. Accu <- Acuu + temp
+14. tmp <- M4
+15. Accu <- Acuu + temp
+16. tmp <- M5
+17. Accu <- Accu/temp
